@@ -1,0 +1,28 @@
+Normalizar los finales de línea de los archivos de texto
+
+* text=auto
+
+Archivos C++
+
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+
+Archivos de documentación
+
+*.md text eol=lf
+*.txt text eol=lf
+
+Archivos de configuración
+
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+Archivos de Windows que no deben modificarse como texto
+
+*.exe binary
+*.dll binary
+*.png binary
+*.jpg binary
+*.jpeg binary

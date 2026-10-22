@@ -1,0 +1,27 @@
+Archivos ejecutables compilados
+
+*.exe
+*.out
+*.o
+*.obj
+
+Archivos temporales
+
+*.tmp
+*.temp
+*.log
+
+Configuración personal de Visual Studio Code
+
+.vscode/
+
+Archivos del sistema operativo
+
+Thumbs.db
+.DS_Store
+desktop.ini
+
+Copias de seguridad
+
+*.bak
+*.old
